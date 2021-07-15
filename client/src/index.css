@@ -1,0 +1,10 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.add-product-btn {
+    margin-top: 50px;
+}
+
+.nav-bar-li {
+    color: black;
+    font-weight: bold;
+}
